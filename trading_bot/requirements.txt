@@ -1,0 +1,14 @@
+smartapi-python>=1.3.4
+pandas>=2.2.0
+numpy>=2.0.0
+scipy>=1.13.0
+anthropic>=0.26.0
+pyotp>=2.9.0
+python-dotenv>=1.0.0
+schedule>=1.2.1
+websocket-client>=1.7.0
+requests>=2.31.0
+pytz>=2024.1
+loguru>=0.7.2
+yfinance>=0.2.38
+ta>=0.11.0

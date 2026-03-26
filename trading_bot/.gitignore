@@ -1,0 +1,12 @@
+# Never commit these — they contain your secrets and personal data
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+logs/
+scrip_master.json
